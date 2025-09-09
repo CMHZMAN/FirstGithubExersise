@@ -1,0 +1,29 @@
+# Pull Request
+
+## Beskrivning
+Beskriv kortfattat ändringarna i denna PR. Vad har lagts till, ändrats eller fixats?
+
+## Relaterade ärenden
+Referera till eventuella relaterade issue-nummer (t.ex. "Fixes #123", "Relaterar till #456").
+
+## Vad har ändrats?
+- [ ] Ny funktionalitet eller förbättring
+- [ ] Bugfix
+- [ ] Dokumentation
+- [ ] Testfall / test
+- [ ] Andra ändringar (vänligen specificera)
+
+## Kvalitetssäkring
+Beskriv de tester som har körts för att säkerställa att ändringarna fungerar som förväntat. Om det är relevant, inkludera även länkar till testplaner, testprotokoll eller automationstester.
+
+## Riskbedömning
+Vad är riskerna med denna PR? Beskriv eventuella potentiella problem eller konsekvenser som kan uppstå efter sammanslagningen.
+
+## Instruktioner för testning
+Ge steg-för-steg instruktioner för att testa ändringarna, inklusive krav på miljö, om det är relevant.
+
+## Skärmdumpar
+Om möjligt, inkludera skärmdumpar för att visa de visuella förändringarna eller andra relevanta resultat.
+
+## Ytterligare kommentarer
+Eventuella andra kommentarer som kan vara till hjälp för granskaren.
